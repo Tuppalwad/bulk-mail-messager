@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.454ace64.css","mappings":"AAAA,QACE,wBACF","sources":["components/auth/navbar.css"],"sourcesContent":[".navbar {\r\n  background-color: #e3f2fd;\r\n}\r\n"],"names":[],"sourceRoot":""}
