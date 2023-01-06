@@ -81,7 +81,7 @@ export default function Compose() {
                   Compose Mail
                 </Link>
                 <Link className="list-group-item " to="/dashboard/inbox">
-                  inbox
+                  Sends Mails
                 </Link>
               </ul>
             </div>

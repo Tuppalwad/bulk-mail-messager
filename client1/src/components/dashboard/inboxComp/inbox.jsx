@@ -37,7 +37,7 @@ export default function Inbox() {
                 Compose Mail
               </Link>
               <Link className="list-group-item active" to="/dashboard/inbox">
-                Inbox
+                Sends Mails
               </Link>
             </ul>
           </div>
